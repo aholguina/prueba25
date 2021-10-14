@@ -1,0 +1,13 @@
+package minticg25.g25;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class G25Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(G25Application.class, args);
+	}
+
+}
